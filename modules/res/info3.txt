@@ -1,0 +1,2 @@
+(one part of own e-mail login account/password,
+read by "read_info.py" to guarantee basic safety)
